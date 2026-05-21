@@ -1,0 +1,10 @@
+2026-05-07 09:01:50 | savir | LOGIN | Acesso ao sistema. Usuário: Hiran Savir Junior. Empresa: Matriz - São Paulo
+2026-05-07 09:27:06 | savir | LOGOUT | Sessão encerrada. Usuário: Hiran Savir Junior. Empresa: Matriz - São Paulo
+2026-05-07 09:30:13 | savir | LOGIN | Acesso ao sistema. Usuário: Hiran Savir Junior. Empresa: Matriz - São Paulo
+2026-05-14 00:42:30 | savir | LOGIN | Acesso ao sistema. Usuário: Hiran Savir Junior. Empresa: Matriz - São Paulo
+2026-05-14 00:51:10 | savir | LOGIN | Acesso ao sistema. Usuário: Hiran Savir Junior. Empresa: Matriz - São Paulo
+2026-05-14 00:51:46 | savir | LOGIN | Acesso ao sistema. Usuário: Hiran Savir Junior. Empresa: Matriz - São Paulo
+2026-05-14 00:53:54 | savir | INCLUIR_USUARIO | Usuário incluído: login=hackerman, nome=hackerman
+2026-05-14 00:58:10 | savir | INCLUIR_USUARIO | Usuário incluído: login=a, nome=a
+2026-05-14 00:58:30 | savir | EDITAR_USUARIO | Usuário editado: id=137, login=ab, nome=ab
+2026-05-14 00:58:46 | savir | EXCLUIR_USUARIO | Usuário excluído: id=137, nome=ab
