@@ -17,6 +17,10 @@ Guia Completo · 9 Classes - linha por linha
 
 https://mermaid.ai/d/13b6df74-8e5c-4dda-966d-3964f5d6c60f
 
+//
+
+https://claude.ai/public/artifacts/9e54f2fc-2c37-4937-8ad0-3ae2666e1102
+
 ---
 
 ## 📋 Sumário
