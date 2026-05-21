@@ -13,6 +13,9 @@ https://superneuromancer.github.io/index5.html
 SuperSistema · Java
 Guia Completo · 9 Classes - linha por linha
 
+//
+
+https://mermaid.ai/d/13b6df74-8e5c-4dda-966d-3964f5d6c60f
 
 ---
 
